@@ -1,4 +1,11 @@
 # R4ND0M
+pkg install git
+
+pkg install python
+
+pig install requests
+
+pip install rich
 
 rm -rf R4ND0M
 
