@@ -1,4 +1,7 @@
 # R4ND0M
+
+Free Tool enjoy!🌸
+
 pkg install git
 
 pkg install python
