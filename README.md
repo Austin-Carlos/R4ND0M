@@ -16,4 +16,4 @@ git clone https://github.com/Austin-Carlos/R4ND0M
 
 cd R4ND0M
 
-python AN-CS.py
+python AN-CS2.py
