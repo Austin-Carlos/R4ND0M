@@ -14,6 +14,6 @@ rm -rf R4ND0M
 
 git clone https://github.com/Austin-Carlos/R4ND0M
 
-cd AN-CS2
+cd R4ND0M
 
 python AN-CS.py
